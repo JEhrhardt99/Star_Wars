@@ -10,24 +10,10 @@ rm(list = ls())
 
 # Load Libraries ----------------------------------------------------------
 
-library(modelsummary)
-library(estimatr)
-library(lmtest)
-library(sandwich)
-library(haven)
 library(ggplot2)
 library(ggthemes)
 library(tidyverse)
-library(data.table)
-library(purrr)
-library(microbenchmark)
-library(lubridate)
-library(visdat)
-library(zoo)
-library(fixest)
-library(Hmisc)
-library(tseries)
-library(forecast)
+
 
 # Set WD ------------------------------------------------------------------
 
